@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../beer-song/.idea/beer-song.iml" filepath="$PROJECT_DIR$/../beer-song/.idea/beer-song.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../flatten-array/.idea/flatten-array.iml" filepath="$PROJECT_DIR$/../flatten-array/.idea/flatten-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../grade-school/.idea/grade-school.iml" filepath="$PROJECT_DIR$/../grade-school/.idea/grade-school.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../grains/.idea/grains.iml" filepath="$PROJECT_DIR$/../grains/.idea/grains.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../space-age/.idea/space-age.iml" filepath="$PROJECT_DIR$/../space-age/.idea/space-age.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/two-fer.iml" filepath="$PROJECT_DIR$/.idea/two-fer.iml" />
+    </modules>
+  </component>
+</project>
