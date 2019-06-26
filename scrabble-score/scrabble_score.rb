@@ -28,7 +28,7 @@ class Scrabble
   }
 
   def letter_to_score(letter)
-    LETTERS_to_SCORE.select do |k,v|
+    LETTERS_to_SCORE.find do |k,v|
       return v if k.include?(letter)
     end
   end
