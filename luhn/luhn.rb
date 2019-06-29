@@ -14,7 +14,6 @@ class Luhn
     numbers.each_with_index.map.sum do |val, index|
       calculate(val, index)
     end
-
   end
 
   def self.calculate(number, position)
